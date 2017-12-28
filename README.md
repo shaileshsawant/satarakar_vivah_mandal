@@ -1,2 +1,4 @@
 # satarakar_vivah_mandal
-Master branch for satarkar vivah mandal
+This is the shailesh sawant owner of this project.
+
+
